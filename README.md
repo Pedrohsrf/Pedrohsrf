@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pedrohsrf;
 - 👀 I’m interested in becoming a FULL-STACK DEV;
 - 🌱 I’m currently learning Computer Science;
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on instagram @pedrohenriquesrf_ or in email pedrohsrf8@gmail.com;
 - ⚡ Fun fact: Interested in learning new things and becoming an excellent programmer;
 <!---
