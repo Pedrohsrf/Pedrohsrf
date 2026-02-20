@@ -9,7 +9,11 @@
 ## 🛠 Techs
 Java | Kotlin | Git | Godot | Estruturas de Dados | HTML/CSS/JavaScript;
 
-📫 Contact: pedrohsrf8@gmail.com
+📫 Contact
+Email: pedrohsrf8@gmail.com;
+LinkedIn: https://www.linkedin.com/in/pedro-henrique-5b1482355/
+
+
 <!---
 Pedrohsrf/Pedrohsrf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
